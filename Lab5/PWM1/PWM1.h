@@ -13,7 +13,7 @@
 #include <avr/io.h>
 
 void init_PWM1_Fast(void);
-void updateDutyCycleA(uint16_t duty);
+void updateDutyCycle1A(uint16_t duty);
 
 
 #endif /* PWM1_H_ */
